@@ -1,0 +1,7 @@
+{
+    "rest-client.environmentVariables": {
+        "openai": {
+            "key": "yourOpenAiAPIkey"
+        }
+    }
+}
