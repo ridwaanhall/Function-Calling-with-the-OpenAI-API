@@ -7,7 +7,7 @@ Authorization: Bearer {{key}}
   "messages": [
     {
       "role": "user",
-      "content": "How many ducks fit in a pond?"
+      "content": "who is first president in indonesia"
     }
   ],
   "functions": [
